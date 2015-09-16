@@ -1,8 +1,5 @@
 # Digital-Image-Restoration
-Deterministic and Stochastic based techniques for Digital Image Restoration
-
-
-This project deals with implementing several image restoration techniques like
+This project deals with implementing several Deterministic and Stochastic based techniques for Digital Image Restoration techniques like
 
 ####Covariance Constrained Estimation
 ####Inverse Filter Estimation
